@@ -22,9 +22,9 @@
     <br><br>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅</h2> <br> <div align= "center"> 
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=mumminn&bg_color=180,00000000,00000000&title_color=3f82d9&text_color=3f82d9"/> 
+        <img src="https://github-readme-stats.vercel.app/api?username=mumminn&bg_color=180,00000000,00000000&title_color=3f82d9&text_color=3f82d9"/> 
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumminn&layout=compact&bg_color=180,00000000,00000000&title_color=3f82d9&text_color=3f82d9&cache_seconds=1"
-           </div>  -->
+           </div> 
          <br/></div> 
     </div>
